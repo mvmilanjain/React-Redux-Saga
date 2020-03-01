@@ -1,8 +1,8 @@
 import axios from 'axios';
 
-const BASE_URL = '';
+const BASE_URL = 'https://devapi.fitswarm.com/api';
 
-const instance = axios.create({
+export const instance = axios.create({
     baseURL: BASE_URL
 });
 instance.defaults.headers.common['Pragma'] = 'no-cache';
@@ -10,7 +10,7 @@ instance.defaults.headers.post['Content-Type'] = 'application/json';
 
 // REQUEST INTERCEPTOR
 instance.interceptors.request.use(request => {
-    console.log('Request: ', request);
+    // console.log('Request: ', request);
     return request;
 }, error => {
     console.error('Error from Request Interceptor: ', error);
@@ -19,11 +19,9 @@ instance.interceptors.request.use(request => {
 
 // RESPONSE INTERCEPTOR
 instance.interceptors.response.use(response => {
-    console.log('Response: ', response);
+    // console.log('Response: ', response);
     return response;
 }, error => {
     console.error('Error from Response Interceptor: ', error);
     return Promise.reject(error);
 });
-
-export default instance;

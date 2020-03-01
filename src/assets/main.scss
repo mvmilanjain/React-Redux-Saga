@@ -1,3 +1,7 @@
 @import 'abstracts/variables';
 @import 'base/base';
 @import 'base/typography';
+@import './layout';
+
+//CUSTOM COMPONENTS
+@import '../shared/components/Spinner/style';

@@ -1,0 +1,928 @@
+{
+  "classes": [
+    {
+      "_id": "5db1d93785d84e53722dbc79",
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "title": "Morning Jolt",
+      "classType": "Simple Yoga",
+      "classSubType": "Simple Yoga",
+      "description": "Simple yoga",
+      "maxStudents": 5,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "durationInMinutes": 30,
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "scheduledStart": "2019-10-25T05:15:00.000Z",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5db1d93c85d84e53722dbc7a",
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "title": "Morning Jolt",
+      "classType": "Simple Yoga",
+      "classSubType": "Simple Yoga",
+      "description": "Simple yoga",
+      "maxStudents": 5,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "durationInMinutes": 30,
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "scheduledStart": "2019-10-25T05:15:00.000Z",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5db1d94a85d84e53722dbc7b",
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "title": "Morning Jolt",
+      "classType": "Simple Yoga",
+      "classSubType": "Simple Yoga",
+      "description": "Simple yoga",
+      "maxStudents": 5,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "durationInMinutes": 30,
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "scheduledStart": "2019-10-25T05:15:00.000Z",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5dd43bfdbd9163079f639e61",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 9,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Test",
+      "scheduledStart": "2019-11-22T00:45:00.000Z",
+      "durationInMinutes": 15,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "test",
+      "maxStudents": 20,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "coverPicUrl": "class_pictures/5d838b96f3d6e155bd95692b/1200-plank-workout-grokker.jpg",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5de797f35e100528b52cca52",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Test",
+      "scheduledStart": "2019-12-04T11:30:00.000Z",
+      "durationInMinutes": 15,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "test test",
+      "maxStudents": 20,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5de7cbc35e100528b52cca5c",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 6,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "vvvvv",
+      "scheduledStart": "2019-12-04T15:20:42.536Z",
+      "durationInMinutes": 45,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "Please enter the valid title with min 5 and max 3000 characters",
+      "maxStudents": 20,
+      "level": "INTERMEDIATE",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5de9fb2de7d532561a12fa1d",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "test",
+      "scheduledStart": "2019-12-06T07:15:00.000Z",
+      "durationInMinutes": 15,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "test test",
+      "maxStudents": 20,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "coverPicUrl": "class_pictures/5d838b96f3d6e155bd95692b/2019-12-05_0254.png",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5de9fb2ee7d532561a12fa1e",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "test",
+      "scheduledStart": "2019-12-06T07:15:00.000Z",
+      "durationInMinutes": 15,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "test test",
+      "maxStudents": 20,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "coverPicUrl": "class_pictures/5d838b96f3d6e155bd95692b/2019-12-05_0254.png",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5dea8f40e7d532561a12fa25",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 1,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "test  6 ",
+      "scheduledStart": "2019-12-06T18:25:00.000Z",
+      "durationInMinutes": 15,
+      "classType": "Yoga",
+      "classSubType": "Vayu Yoga",
+      "description": "grargagrargaerg",
+      "maxStudents": 20,
+      "level": "ADVANCED",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5deb5ccce7d532561a12fa28",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 2,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "new  new",
+      "scheduledStart": "2019-12-07T08:11:42.557Z",
+      "durationInMinutes": 30,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "min 5 and max 3000 characters",
+      "maxStudents": 20,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5dea51e0e7d532561a12fa22",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "test 4",
+      "scheduledStart": "2019-12-07T13:03:00.000Z",
+      "durationInMinutes": 15,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "sdkjfhaskldfhjasd",
+      "maxStudents": 20,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5dee512b7fba1a15378a756a",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "test1",
+      "scheduledStart": "2019-12-09T13:55:00.000Z",
+      "durationInMinutes": 15,
+      "classType": "Yoga",
+      "classSubType": "Vayu Yoga",
+      "description": "bsthsfbst",
+      "maxStudents": 20,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5dee53077fba1a15378a756b",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 5,
+      "state": "ENDED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "test12",
+      "scheduledStart": "2019-12-09T14:15:00.000Z",
+      "durationInMinutes": 15,
+      "classType": "Yoga",
+      "classSubType": "Vayu Yoga",
+      "description": "ththsrthsthsrtsrth",
+      "maxStudents": 20,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df14dbeb8a6a92de49a0775",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "test",
+      "scheduledStart": "2019-12-11T20:27:41.686Z",
+      "durationInMinutes": 15,
+      "classType": "Yoga",
+      "classSubType": "Vayu Yoga",
+      "description": "jhkjgkgkj",
+      "maxStudents": 10,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5def9c457fba1a15378a758d",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 1,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "New class here for search",
+      "scheduledStart": "2019-12-12T12:55:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Vayu Yoga",
+      "description": "asdasda",
+      "maxStudents": 6,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "CANCELLED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5def4b0e7fba1a15378a757a",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 1,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Testing FOr payment",
+      "scheduledStart": "2019-12-13T07:35:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Vayu Yoga",
+      "description": "Small description here",
+      "maxStudents": 30,
+      "level": "INTERMEDIATE",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "CANCELLED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df682873f58973f5eb32c70",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "ENDED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Test - 16/12",
+      "scheduledStart": "2019-12-15T19:06:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Vayu Yoga",
+      "description": "twregwtgwer",
+      "maxStudents": 6,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df686673f58973f5eb32c71",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 1,
+      "state": "ENDED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Test 2 - 16/12",
+      "scheduledStart": "2019-12-15T19:25:00.000Z",
+      "durationInMinutes": 45,
+      "classType": "Yoga",
+      "classSubType": "Vayu Yoga",
+      "description": "egsdbsdbstb",
+      "maxStudents": 23,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df68d823f58973f5eb32c73",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "ENDED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Test 3 - 16/12",
+      "scheduledStart": "2019-12-15T19:55:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Vayu Yoga",
+      "description": "dfdghdfhdfhg",
+      "maxStudents": 23,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df767af3f58973f5eb32c75",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "ENDED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "test 3 - 16/12",
+      "scheduledStart": "2019-12-16T11:25:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "fvdfvsdfvsf",
+      "maxStudents": 4,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df778bf3f58973f5eb32c7c",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Test session",
+      "scheduledStart": "2019-12-16T12:38:00.000Z",
+      "durationInMinutes": 45,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "fdgbdfgndfgndfg",
+      "maxStudents": 8,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df77c4a3f58973f5eb32c81",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Test session 2",
+      "scheduledStart": "2019-12-16T12:54:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Vayu Yoga",
+      "description": "rgrthetyjrtyjrtyjty",
+      "maxStudents": 5,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df7cd1a3f58973f5eb32c8a",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "ENDED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Test session 5",
+      "scheduledStart": "2019-12-16T18:37:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "v sdgsgsdgstg",
+      "maxStudents": 32,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df9205e3f58973f5eb32c9f",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 1,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Search test 1",
+      "scheduledStart": "2019-12-17T18:45:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "rgergwergwergwer",
+      "maxStudents": 13,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df9ee493f58973f5eb32cac",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Wednesday Morning",
+      "scheduledStart": "2019-12-18T09:20:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "Please enter valid title with min 5 and max 3000 characters",
+      "maxStudents": 5,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "coverPicUrl": "class_pictures/5d838b96f3d6e155bd95692b/fly-easy-logo.jpeg",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df9ee4a3f58973f5eb32cad",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Wednesday Morning",
+      "scheduledStart": "2019-12-18T09:20:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "Please enter valid title with min 5 and max 3000 characters",
+      "maxStudents": 5,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "coverPicUrl": "class_pictures/5d838b96f3d6e155bd95692b/fly-easy-logo.jpeg",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df9ee4a3f58973f5eb32cae",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Wednesday Morning",
+      "scheduledStart": "2019-12-18T09:20:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "Please enter valid title with min 5 and max 3000 characters",
+      "maxStudents": 5,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "coverPicUrl": "class_pictures/5d838b96f3d6e155bd95692b/fly-easy-logo.jpeg",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "CANCELLED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df9ee4a3f58973f5eb32caf",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Wednesday Morning",
+      "scheduledStart": "2019-12-18T09:20:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "Please enter valid title with min 5 and max 3000 characters",
+      "maxStudents": 5,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "coverPicUrl": "class_pictures/5d838b96f3d6e155bd95692b/fly-easy-logo.jpeg",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "CANCELLED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df9ee4a3f58973f5eb32cb0",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Wednesday Morning",
+      "scheduledStart": "2019-12-18T09:20:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "Please enter valid title with min 5 and max 3000 characters",
+      "maxStudents": 5,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "coverPicUrl": "class_pictures/5d838b96f3d6e155bd95692b/fly-easy-logo.jpeg",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df9ee4a3f58973f5eb32cb1",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Wednesday Morning",
+      "scheduledStart": "2019-12-18T09:20:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "Please enter valid title with min 5 and max 3000 characters",
+      "maxStudents": 5,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "coverPicUrl": "class_pictures/5d838b96f3d6e155bd95692b/fly-easy-logo.jpeg",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df9ee4a3f58973f5eb32cb2",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Wednesday Morning",
+      "scheduledStart": "2019-12-18T09:20:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "Please enter valid title with min 5 and max 3000 characters",
+      "maxStudents": 5,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "coverPicUrl": "class_pictures/5d838b96f3d6e155bd95692b/fly-easy-logo.jpeg",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    },
+    {
+      "_id": "5df9ee4a3f58973f5eb32cb3",
+      "price": {
+        "currency": "Pound Sterling",
+        "currencyCode": "GBP",
+        "value": 0
+      },
+      "isRecurring": false,
+      "numBooked": 0,
+      "state": "NOT_STARTED",
+      "enterpriseId": "5d838b96f3d6e155bd95692b",
+      "title": "Wednesday Morning",
+      "scheduledStart": "2019-12-18T09:20:00.000Z",
+      "durationInMinutes": 60,
+      "classType": "Yoga",
+      "classSubType": "Hatha Yoga",
+      "description": "Please enter valid title with min 5 and max 3000 characters",
+      "maxStudents": 5,
+      "level": "BEGINNER",
+      "visibility": "PUBLIC",
+      "coverPicUrl": "class_pictures/5d838b96f3d6e155bd95692b/fly-easy-logo.jpeg",
+      "instructorId": "5d838b2af3d6e155bd95692a",
+      "status": "PUBLISHED",
+      "instructorDetails": {
+        "name": "vikas W"
+      },
+      "enterpriseDetails": {
+        "name": "enterprise1"
+      }
+    }
+  ]
+}
