@@ -1,4 +1,8 @@
 .main {
   max-width: 120rem;
-  margin: 4rem auto;
+  margin: 8rem auto;
+  background-color: #fff;
+  box-shadow: $shadow-dark;
+
+  min-height: 50rem;
 }
